@@ -1,2 +1,2 @@
-# SSL_ALONSO_EZEQUIEL
-Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes
+# TP0
+Este es mi primer proyecto en C, el mismo contiene un HelloWorld como salida
